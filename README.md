@@ -1,3 +1,17 @@
+# To-Do List React
+
+Create a to-do list with React. You can add a task, modify and remove.
+
+
+```javascript
+create-react-app to-do-list
+```
+
+## Deploy
+
+Deploy on netlify : https://to-do-list-with-react.netlify.com/
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
